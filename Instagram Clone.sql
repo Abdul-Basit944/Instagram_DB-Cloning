@@ -1,3 +1,5 @@
+create database instagram_clone;
+
 use instagram_clone;
 
 -- why Use unique ?
